@@ -1,2 +1,2 @@
 # chatbot-flask
-Provide a short description of your project (e.g., "Flask app to upload and process PDFs"
+A Flask-based web application that allows users to upload PDF files, extract their text content, and ask questions about the document using a natural language processing (NLP) model.
